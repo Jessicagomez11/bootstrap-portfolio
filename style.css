@@ -1,0 +1,25 @@
+h1{
+    background: white;
+    color: #d8a13b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(https://i.pinimg.com/564x/59/f9/17/59f917ca08ed3f790268c6dc3e5f81de.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color: white;
+ 
+}
+#name{
+    font-size: 40px;
+    padding-top: 20px;
+   padding-left: 40px;
+
+}
+.nav-link{
+    font-size: 20px;
+    color:#d8a13b;
+    padding-top: -20px;
+}
